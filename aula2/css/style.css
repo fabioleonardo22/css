@@ -1,0 +1,8 @@
+h1{color: blue;font-size: 60px;font-family: tahoma;}
+
+h1{color: chocolate;font-size: 50px;}
+p{color: cyan;font-size: 50px;}
+
+input[type="text"]{windth:200px; background: #ccc; height: 35px;border: none;}
+input[type="email"]{windth:200px; background-color: #ccc; height: 35px;border: none;}
+input[type="submit"]{windth:50px;background-color: green;height:35px;border: none; cursor: pointer;color: #fff;}
